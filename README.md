@@ -1,12 +1,13 @@
-- 👋 Hi, I’m KARKOURI ayoub
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-👋 Hi, I’m Ayoub Karkouri!
 
-<!---
-ARKOURI856/ARKOURI856 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-💻 I’m passionate about software engineering and constantly exploring new technologies.
+
+-🌱 Currently diving into Spring Boot to level up my backend skills.
+
+-🤝 I’m open to collaborating on innovative software projects and learning from other developers.
+
+-📫 You can reach me at email:[ayoubkarkouri@gmail.com]
+
+-😄 Pronouns: He/Him
+
+-⚡ Fun fact: I believe that coding is like solving puzzles—the thrill comes from cracking the code!

@@ -8,6 +8,4 @@
 
 -📫 You can reach me at email:[ayoubkarkouri@gmail.com]
 
--😄 Pronouns: He/Him
-
 -⚡ Fun fact: I believe that coding is like solving puzzles—the thrill comes from cracking the code!
